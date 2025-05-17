@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "patient.h": "c",
+    "billing.h": "c",
+    "doctor.h": "c",
+    "common.h": "c",
+    "id_manager.h": "c"
+  },
+
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+
+  "code-runner.executorMap": {
+    "c": "cd \"d:/Programming/Github/HMS_Project_C\" && make && ./HMS"
+  },
+  "code-runner.cwd": "d:/Programming/Github/HMS_Project_C"
+}
