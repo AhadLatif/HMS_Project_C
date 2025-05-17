@@ -67,9 +67,9 @@ int fileCheck(FILE *file)
 void exitProgram(void)
 {
 
-    savePatientsToFile(); // ✅ Save all current data
+    savePatientsToFile(); // 
     printf("\n All patient data saved successfully!\n");
-    printf("👋 Thank you for using the Patient Management System. Goodbye!\n");
+    printf("Thank you for using the Patient Management System. Goodbye!\n");
     return; //<-----this
 }
 

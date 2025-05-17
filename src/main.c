@@ -14,7 +14,7 @@ int main()
 
     loadIDManager();
 
-    welcomScreen();
+    // welcomScreen();
     // login();
     int choice;
     do
